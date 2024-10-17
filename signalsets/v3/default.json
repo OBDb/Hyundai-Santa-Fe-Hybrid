@@ -89,39 +89,13 @@
     {"id": "SANTAFEHYB_HVBAT_CMU069_VOLT", "path": "Battery.Modules.069", "fmt": {"bix": 64,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 069 voltage"},
     {"id": "SANTAFEHYB_HVBAT_CMU070_VOLT", "path": "Battery.Modules.070", "fmt": {"bix": 72,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 070 voltage"},
     {"id": "SANTAFEHYB_HVBAT_CMU071_VOLT", "path": "Battery.Modules.071", "fmt": {"bix": 80,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 071 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU072_VOLT", "path": "Battery.Modules.072", "fmt": {"bix": 88,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 072 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU073_VOLT", "path": "Battery.Modules.073", "fmt": {"bix": 96,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 073 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU074_VOLT", "path": "Battery.Modules.074", "fmt": {"bix": 104, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 074 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU075_VOLT", "path": "Battery.Modules.075", "fmt": {"bix": 112, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 075 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU076_VOLT", "path": "Battery.Modules.076", "fmt": {"bix": 120, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 076 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU077_VOLT", "path": "Battery.Modules.077", "fmt": {"bix": 128, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 077 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU078_VOLT", "path": "Battery.Modules.078", "fmt": {"bix": 136, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 078 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU079_VOLT", "path": "Battery.Modules.079", "fmt": {"bix": 144, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 079 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU080_VOLT", "path": "Battery.Modules.080", "fmt": {"bix": 152, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 080 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU081_VOLT", "path": "Battery.Modules.081", "fmt": {"bix": 160, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 081 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU082_VOLT", "path": "Battery.Modules.082", "fmt": {"bix": 168, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 082 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU083_VOLT", "path": "Battery.Modules.083", "fmt": {"bix": 176, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 083 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU084_VOLT", "path": "Battery.Modules.084", "fmt": {"bix": 184, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 084 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU085_VOLT", "path": "Battery.Modules.085", "fmt": {"bix": 192, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 085 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU086_VOLT", "path": "Battery.Modules.086", "fmt": {"bix": 200, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 086 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU087_VOLT", "path": "Battery.Modules.087", "fmt": {"bix": 208, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 087 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU088_VOLT", "path": "Battery.Modules.088", "fmt": {"bix": 216, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 088 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU089_VOLT", "path": "Battery.Modules.089", "fmt": {"bix": 224, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 089 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU090_VOLT", "path": "Battery.Modules.090", "fmt": {"bix": 232, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 090 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU091_VOLT", "path": "Battery.Modules.091", "fmt": {"bix": 240, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 091 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU092_VOLT", "path": "Battery.Modules.092", "fmt": {"bix": 248, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 092 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU093_VOLT", "path": "Battery.Modules.093", "fmt": {"bix": 256, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 093 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU094_VOLT", "path": "Battery.Modules.094", "fmt": {"bix": 264, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 094 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU095_VOLT", "path": "Battery.Modules.095", "fmt": {"bix": 272, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 095 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU096_VOLT", "path": "Battery.Modules.096", "fmt": {"bix": 280, "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 096 voltage"}
+    {"id": "SANTAFEHYB_HVBAT_CMU072_VOLT", "path": "Battery.Modules.072", "fmt": {"bix": 88,  "len": 8, "max": 4.2, "min": 2.8, "div": 50, "unit": "volts" }, "name": "HV battery module 072 voltage"}
   ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "0105"}, "freq": 1,
   "signals": [
     {"id": "SANTAFEHYB_HVBAT_SOH",         "path": "Battery",             "fmt": {"bix": 200, "len": 16, "max": 100,                       "div": 10,   "unit": "percent"       }, "name": "HV battery state of health",    "suggestedMetric": "stateOfHealth"},
     {"id": "SANTAFEHYB_HVBAT_WH",          "path": "Battery",             "fmt": {"bix": 224, "len": 16, "max": 100,             "mul": 2, "div": 1000, "unit": "kilowattHours" }, "name": "HV battery remaining energy"},
-    {"id": "SANTAFEHYB_HVBAT_SOC_DISP",    "path": "Battery",             "fmt": {"bix": 248, "len": 8,  "max": 100,                       "div": 2,    "unit": "percent"       }, "name": "HV battery charge",             "suggestedMetric": "stateOfCharge"},
-    {"id": "SANTAFEHYB_HVBAT_CMU097_VOLT", "path": "Battery.Modules.097", "fmt": {"bix": 272, "len": 8,  "max": 4.2, "min": 2.8,           "div": 50,   "unit": "volts"         }, "name": "HV battery module 097 voltage"},
-    {"id": "SANTAFEHYB_HVBAT_CMU098_VOLT", "path": "Battery.Modules.098", "fmt": {"bix": 280, "len": 8,  "max": 4.2, "min": 2.8,           "div": 50,   "unit": "volts"         }, "name": "HV battery module 098 voltage"}
+    {"id": "SANTAFEHYB_HVBAT_SOC_DISP",    "path": "Battery",             "fmt": {"bix": 248, "len": 8,  "max": 100,                       "div": 2,    "unit": "percent"       }, "name": "HV battery charge",             "suggestedMetric": "stateOfCharge"}
   ]}
 ],
 "signalGroups": [

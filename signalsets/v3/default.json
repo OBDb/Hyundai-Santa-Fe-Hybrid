@@ -100,7 +100,6 @@
   ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "0105"}, "freq": 1,
   "signals": [
-    {"id": "SANTAFEHYB_HVBAT_WH",       "path": "Battery", "fmt": {"bix": 224, "len": 16, "max": 100, "mul": 2, "div": 1000, "unit": "kilowattHours" }, "name": "HV battery remaining energy"},
     {"id": "SANTAFEHYB_HVBAT_SOC_DISP", "path": "Battery", "fmt": {"bix": 248, "len": 8,  "max": 100,           "div": 2,    "unit": "percent"       }, "name": "HV battery charge",           "suggestedMetric": "stateOfCharge"}
   ]},
 { "hdr": "7E7", "rax": "7EF", "cmd": {"22": "C101"}, "freq": 0.25,

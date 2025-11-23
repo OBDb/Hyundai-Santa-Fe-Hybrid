@@ -124,6 +124,7 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
   - 0130:WARM_UPS
   - 0131:CLR_DIST
+  - 7E7.7EF.0131
   - 7E7.7EF.22C101:SANTAFEHYB_TIRE_FL_SPD,SANTAFEHYB_TIRE_FR_SPD,SANTAFEHYB_TIRE_RL_SPD,SANTAFEHYB_TIRE_RR_SPD
 unsupported_commands_by_ecu:
   "744":
@@ -157,5 +158,3 @@ unsupported_commands_by_ecu:
   - 7E4.22010A
   - 7E4.22010B
   - 7E4.22010C
-  "7E7":
-  - 7E7.7EF.0131

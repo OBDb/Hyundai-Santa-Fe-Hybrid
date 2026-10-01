@@ -1,6 +1,17 @@
 command_id: 7A0.7A8.22C00B|fc=1,f=-2023
 test_cases:
 - expected_values:
+    SANTAFEHYB_TP_FL: null
+    SANTAFEHYB_TP_FR: null
+    SANTAFEHYB_TP_RL: null
+    SANTAFEHYB_TP_RR: null
+  response: |-
+    7A8102062C00BFFFFFF
+    7A82180000000020000
+    7A82200020000000200
+    7A823000002FB87AF87
+    7A824AF87AF87AFAAAA
+- expected_values:
     SANTAFEHYB_TP_RR: 32.8
   response: |-
     7A8102062C00BFFFFFF

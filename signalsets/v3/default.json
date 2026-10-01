@@ -1010,7 +1010,8 @@
   ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "0105"}, "freq": 1, "dbgfilter": { "to": 2020, "years": [2022], "from": 2026 },
   "signals": [
-    {"id": "SANTAFEHYB_HVBAT_SOC_DISP", "path": "Battery", "fmt": {"bix": 248, "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "HV battery charge", "suggestedMetric": "stateOfCharge"}
+    {"id": "SANTAFEHYB_HVBAT_SOH",      "path": "Battery", "fmt": {"bix": 200, "len": 16, "max": 100, "div": 10, "nullmin": 0, "unit": "percent" }, "name": "HV battery state of health", "suggestedMetric": "stateOfHealth"},
+    {"id": "SANTAFEHYB_HVBAT_SOC_DISP", "path": "Battery", "fmt": {"bix": 248, "len": 8,  "max": 100, "div": 2,                "unit": "percent" }, "name": "HV battery charge",          "suggestedMetric": "stateOfCharge"}
   ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "dbg": true, "cmd": {"22": "0106"}, "freq": 5,
   "signals": [

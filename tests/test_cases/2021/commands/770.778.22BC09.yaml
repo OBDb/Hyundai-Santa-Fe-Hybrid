@@ -1,0 +1,32 @@
+command_id: 770.778.22BC09
+test_cases:
+- expected_values:
+    SFHEV_HL_HIGH: 0
+    SFHEV_HL_LOW: 0
+  response: |-
+    778100B62BC09301FCF
+    77821CC00000000AAAA
+- expected_values:
+    SFHEV_HL_HIGH: 0
+    SFHEV_HL_LOW: 0
+  response: |-
+    778100B62BC09301FCF
+    77821CC00080000AAAA
+- expected_values:
+    SFHEV_HL_HIGH: 0
+    SFHEV_HL_LOW: 0
+  response: |-
+    778100B62BC09301FCF
+    77821CC00080010AAAA
+- expected_values:
+    SFHEV_HL_HIGH: 0
+    SFHEV_HL_LOW: 0
+  response: |-
+    778100B62BC09301FCF
+    77821CC00080020AAAA
+- expected_values:
+    SFHEV_HL_HIGH: 0
+    SFHEV_HL_LOW: 0
+  response: |-
+    778100B62BC09301FCF
+    77821CC00080030AAAA

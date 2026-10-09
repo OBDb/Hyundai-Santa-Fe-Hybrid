@@ -1,0 +1,8 @@
+command_id: 7A0.7A8.22B009
+test_cases:
+- expected_values:
+    SFHEV_PARKING_SENS_REAR: 8
+    SFHEV_PARKING_SENS_REAR_CENTER: 0
+  response: |-
+    7A8100B62B009000000
+    7A8210008000800AAAA

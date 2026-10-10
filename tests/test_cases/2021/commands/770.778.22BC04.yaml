@@ -1,0 +1,32 @@
+command_id: 770.778.22BC04
+test_cases:
+- expected_values:
+    SFHEV_BELT_RL: 0
+    SFHEV_BELT_RM: 0
+    SFHEV_BELT_RR: 0
+    SFHEV_GEAR_R: 0
+    SFHEV_LOCK_FL: 0
+    SFHEV_LOCK_FR: 0
+  response: |-
+    778100B62BC04332770
+    778212000000000AAAA
+- expected_values:
+    SFHEV_BELT_RL: 0
+    SFHEV_BELT_RM: 0
+    SFHEV_BELT_RR: 0
+    SFHEV_GEAR_R: 0
+    SFHEV_LOCK_FL: 0
+    SFHEV_LOCK_FR: 0
+  response: |-
+    778100B62BC04332770
+    778212000800000AAAA
+- expected_values:
+    SFHEV_BELT_RL: 0
+    SFHEV_BELT_RM: 0
+    SFHEV_BELT_RR: 0
+    SFHEV_GEAR_R: 0
+    SFHEV_LOCK_FL: 1
+    SFHEV_LOCK_FR: 1
+  response: |-
+    778100B62BC04332770
+    77821200C000000AAAA

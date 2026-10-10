@@ -1,0 +1,32 @@
+command_id: 770.778.22BC08
+test_cases:
+- expected_values:
+    SFHEV_TURN_L: 0
+    SFHEV_TURN_R: 0
+  response: |-
+    778100B62BC0800579C
+    77821BC0000011CAAAA
+- expected_values:
+    SFHEV_TURN_L: 0
+    SFHEV_TURN_R: 0
+  response: |-
+    778100B62BC0800579C
+    77821BC0002001CAAAA
+- expected_values:
+    SFHEV_TURN_L: 0
+    SFHEV_TURN_R: 0
+  response: |-
+    778100B62BC0800579C
+    77821BC0002101CAAAA
+- expected_values:
+    SFHEV_TURN_L: 0
+    SFHEV_TURN_R: 0
+  response: |-
+    778100B62BC0800579C
+    77821BC0002311CAAAA
+- expected_values:
+    SFHEV_TURN_L: 0
+    SFHEV_TURN_R: 0
+  response: |-
+    778100B62BC0800579C
+    77821BC0008011CAAAA

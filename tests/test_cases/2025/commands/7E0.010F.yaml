@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     IAT: -1
   response: 7E803410F27
+- expected_values:
+    IAT: 8
+  response: 7E803410F30
+- expected_values:
+    IAT: 9
+  response: 7E803410F31
+- expected_values:
+    IAT: 10
+  response: 7E803410F32
+- expected_values:
+    IAT: 11
+  response: 7E803410F33
+- expected_values:
+    IAT: 12
+  response: 7E803410F34
+- expected_values:
+    IAT: 13
+  response: 7E803410F35
+- expected_values:
+    IAT: 14
+  response: 7E803410F36
+- expected_values:
+    IAT: 16
+  response: 7E803410F38
